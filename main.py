@@ -125,5 +125,5 @@ class FaunBot(discord.Client):
 
 
 bot = FaunBot()
-bot.run("ODM1ODczNDAzMTQ2ODYyNTky.YIVxxQ.cUS67ThyO30iTxlHn3HDccIs_O8")
+bot.run("INSERTCODEHERE")
 
